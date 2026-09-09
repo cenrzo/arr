@@ -65,8 +65,8 @@ class _BundledLoader(importlib.abc.Loader):
             source = source.replace("\nsync_hardware_database()\n", "\n")
         if module.__name__ == "utils.dashboard":
             source = source.replace(
-                'get("dashboard_host", "127.0.0.1")',
-                'get("dashboard_host", "0.0.0.0")',
+                'host = str(load_config().get("dashboard_host", "127.0.0.1")).strip() or "127.0.0.1"',
+                'host = "0.0.0.0" if os.environ.get("PORT") else str(load_config().get("dashboard_host", "127.0.0.1")).strip() or "127.0.0.1"',
             )
         exec(source, module.__dict__)
         if module.__name__ == "utils.dashboard":

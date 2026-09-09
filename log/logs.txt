@@ -5,3 +5,7 @@
 2026-09-10 00:05:23 │ INFO  │ Dashboard Web › Listening on http://127.0.0.1:5064
 2026-09-10 00:05:34 │ INFO  │ Waiting for tokens and invites from the dashboard at http://127.0.0.1:5064
 2026-09-10 00:05:44 │ INFO  │ Waiting for tokens and invites from the dashboard at http://127.0.0.1:5064
+2026-09-10 00:15:43 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5065
+2026-09-10 00:15:43 │ INFO  │ Dashboard Web › Listening on http://0.0.0.0:5065
+2026-09-10 00:15:53 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5065
+2026-09-10 00:16:03 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5065
