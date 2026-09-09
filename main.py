@@ -472,7 +472,7 @@ async def main():
         if invites and tokens:
             break
         if time.time() - last_input_notice >= 10:
-            log.info("Waiting for tokens and invites from the dashboard at http://127.0.0.1:%s", dashboard_port)
+            log.info("Waiting for tokens and invites from the dashboard on port %s", dashboard_port)
             last_input_notice = time.time()
         await asyncio.sleep(1)
 
