@@ -1,12 +1,7 @@
-2026-09-09 23:41:05 │ INFO  │ Downloading & dynamically compiling 24-hour hardware database input/hardware_database.json...
-2026-09-09 23:41:06 │ INFO  │ Dynamically parsed 1737 live GPUs from Official Main Registry.
-2026-09-09 23:41:06 │ INFO  │ Hardware database successfully saved to input/hardware_database.json (Valid for 24h).
-2026-09-09 23:41:06 │ INFO  │ Waiting for tokens and invites from the dashboard at http://127.0.0.1:5050
-2026-09-09 23:41:06 │ INFO  │ Dashboard Web › Listening on http://127.0.0.1:5050
-2026-09-09 23:41:16 │ INFO  │ Waiting for tokens and invites from the dashboard at http://127.0.0.1:5050
-2026-09-09 23:41:26 │ INFO  │ Waiting for tokens and invites from the dashboard at http://127.0.0.1:5050
-2026-09-09 23:41:36 │ INFO  │ Waiting for tokens and invites from the dashboard at http://127.0.0.1:5050
-2026-09-09 23:41:47 │ INFO  │ Waiting for tokens and invites from the dashboard at http://127.0.0.1:5050
-2026-09-09 23:41:48 │ WARNING │ Ctrl+C / termination signal received! Initiating graceful shutdown...
-2026-09-09 23:41:48 │ INFO  │ Finishing active tasks, no new tasks will be scheduled. Press Ctrl+C again to force exit.
-2026-09-09 23:41:48 │ WARNING │ Force exiting immediately...
+2026-09-10 00:05:22 │ INFO  │ Downloading & dynamically compiling 24-hour hardware database input/hardware_database.json...
+2026-09-10 00:05:23 │ INFO  │ Dynamically parsed 1737 live GPUs from Official Main Registry.
+2026-09-10 00:05:23 │ INFO  │ Hardware database successfully saved to input/hardware_database.json (Valid for 24h).
+2026-09-10 00:05:23 │ INFO  │ Waiting for tokens and invites from the dashboard at http://127.0.0.1:5064
+2026-09-10 00:05:23 │ INFO  │ Dashboard Web › Listening on http://127.0.0.1:5064
+2026-09-10 00:05:34 │ INFO  │ Waiting for tokens and invites from the dashboard at http://127.0.0.1:5064
+2026-09-10 00:05:44 │ INFO  │ Waiting for tokens and invites from the dashboard at http://127.0.0.1:5064

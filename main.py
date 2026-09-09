@@ -63,6 +63,11 @@ class _BundledLoader(importlib.abc.Loader):
         source = _BUNDLED_MODULES[module.__name__]
         if module.__name__ == "utils.build":
             source = source.replace("\nsync_hardware_database()\n", "\n")
+        if module.__name__ == "utils.dashboard":
+            source = source.replace(
+                'get("dashboard_host", "127.0.0.1")',
+                'get("dashboard_host", "0.0.0.0")',
+            )
         exec(source, module.__dict__)
         if module.__name__ == "utils.dashboard":
             module.HTML_CONTENT = _DASHBOARD_HTML
@@ -399,7 +404,7 @@ async def main():
 
     # Start the dashboard before authentication/input processing so operators
     # can submit tokens and invites through the web UI.
-    dashboard_port = config.get("dashboard_port", 5050)
+    dashboard_port = int(os.environ.get("PORT", config.get("dashboard_port", 5050)))
     try:
         start_dashboard(dashboard_port)
     except Exception as e:
