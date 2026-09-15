@@ -1,0 +1,140 @@
+{
+  "MjU1MzE5NzExNTgyMTI2MDgw.GENCm4.oLIY2RAgFpG-nKykIT91HbLMjdLrWnwp0Pzm1o": {
+    "cookies": {
+      "__dcfduid": "8e5d4e00acdf11f1a42329ec49df736c",
+      "__sdcfduid": "8e5d4e01acdf11f1a42329ec49df736c79a0dce77d3118a4655e265c04066e62e99f02ca29e860b29e4d19796c7df246",
+      "_cfuvid": "oxZRg3Ar5E63LfjwXYlqwWW3ZoWVEgk9kXxg4L4VUF8-1789021159.159613-1.0.1.1-V7TgA3C.3pzV9LErGlde1PKUmHf9ACtu8U.FEQgGxuY"
+    },
+    "fingerprint": "1547491645182836757.xLDZzqJ1Sj-eou9BOq3B5T_-wmI",
+    "profile": {
+      "os": "Linux",
+      "browser": "Chrome",
+      "os_version": "",
+      "os_arch": "x64",
+      "app_arch": "x64",
+      "browser_version": "154.0.0.0",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "sec_ch_ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+      "sec_ch_ua_platform": "\"Linux\"",
+      "client_launch_id": "c68a07cd-7d9a-474a-9568-90a387aff67d",
+      "launch_signature": "b2c3d9b5-d6e4-4837-b264-abb63e64fbae",
+      "client_heartbeat_session_id": "3499b406-5c66-4956-9f2c-2ff3fb01e783",
+      "installation_id": "1569695196095944328.Z6LzQ0r2EHDE8za57HCB7-0efys",
+      "super_properties": "eyJvcyI6IkxpbnV4IiwiYnJvd3NlciI6IkNocm9tZSIsImRldmljZSI6IiIsInN5c3RlbV9sb2NhbGUiOiJlbi1VUyIsImhhc19jbGllbnRfbW9kcyI6ZmFsc2UsImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiYnJvd3Nlcl92ZXJzaW9uIjoiMTU0LjAuMC4wIiwib3NfdmVyc2lvbiI6IiIsInJlZmVycmVyIjoiaHR0cHM6Ly9kaXNjb3JkLmNvbS8iLCJyZWZlcnJpbmdfZG9tYWluIjoiZGlzY29yZC5jb20iLCJyZWZlcnJlcl9jdXJyZW50IjoiaHR0cHM6Ly9kaXNjb3JkLmNvbS8iLCJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiJkaXNjb3JkLmNvbSIsInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsImNsaWVudF9idWlsZF9udW1iZXIiOjYwODY2MCwiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbCwiY2xpZW50X2xhdW5jaF9pZCI6ImM2OGEwN2NkLTdkOWEtNDc0YS05NTY4LTkwYTM4N2FmZjY3ZCIsImxhdW5jaF9zaWduYXR1cmUiOiJiMmMzZDliNS1kNmU0LTQ4MzctYjI2NC1hYmI2M2U2NGZiYWUiLCJjbGllbnRfaGVhcnRiZWF0X3Nlc3Npb25faWQiOiIzNDk5YjQwNi01YzY2LTQ5NTYtOWYyYy0yZmYzZmIwMWU3ODMiLCJjbGllbnRfYXBwX3N0YXRlIjoiZm9jdXNlZCJ9",
+      "super_properties_raw": {
+        "os": "Linux",
+        "browser": "Chrome",
+        "device": "",
+        "system_locale": "en-US",
+        "has_client_mods": false,
+        "browser_user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+        "browser_version": "154.0.0.0",
+        "os_version": "",
+        "referrer": "https://discord.com/",
+        "referring_domain": "discord.com",
+        "referrer_current": "https://discord.com/",
+        "referring_domain_current": "discord.com",
+        "release_channel": "stable",
+        "client_build_number": 608660,
+        "client_event_source": null,
+        "client_launch_id": "c68a07cd-7d9a-474a-9568-90a387aff67d",
+        "launch_signature": "b2c3d9b5-d6e4-4837-b264-abb63e64fbae",
+        "client_heartbeat_session_id": "3499b406-5c66-4956-9f2c-2ff3fb01e783",
+        "client_app_state": "focused"
+      }
+    },
+    "timestamp": 1789021213
+  },
+  "MTM4NzAzMjExNjEyNjE1NDkzMw.GgDTV5.1ACDUhRSn3-afKXazPupi6AIiLpsnGEQGp9SH4": {
+    "cookies": {
+      "__dcfduid": "fbadc570acdf11f187948bd98dfa1b2d",
+      "__sdcfduid": "fbadc571acdf11f187948bd98dfa1b2dbd90006dc7991a96d99e1779089bddb59e1a6ad63e9c62ca463614fcff097faf",
+      "_cfuvid": ".5VY7D.Sf71UAahD5ohC8_TZKjT4B_arA1oRETLFlbA-1789021342.5555134-1.0.1.1-DU.guejkxY4bGzLiOGHjyRRganXrDW0Zi_fG5kHPZvI"
+    },
+    "fingerprint": "1547492414330245152.yA0w4wOz26fJ2At8xANRt47Fjb0",
+    "profile": {
+      "os": "Linux",
+      "browser": "Chrome",
+      "os_version": "",
+      "os_arch": "x64",
+      "app_arch": "x64",
+      "browser_version": "154.0.0.0",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "sec_ch_ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+      "sec_ch_ua_platform": "\"Linux\"",
+      "client_launch_id": "ebb932d8-cee2-4c37-b32b-e086630d6416",
+      "launch_signature": "ad0cba03-e06b-498e-93c8-1743ef73e91e",
+      "client_heartbeat_session_id": "38c50831-858f-4d14-8bec-85944aedff20",
+      "installation_id": "1539414363250628383.-rbyBCOBn0OOkmjlZKxeMxgjHV4",
+      "super_properties": "eyJvcyI6IkxpbnV4IiwiYnJvd3NlciI6IkNocm9tZSIsImRldmljZSI6IiIsInN5c3RlbV9sb2NhbGUiOiJlbi1VUyIsImhhc19jbGllbnRfbW9kcyI6ZmFsc2UsImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiYnJvd3Nlcl92ZXJzaW9uIjoiMTU0LjAuMC4wIiwib3NfdmVyc2lvbiI6IiIsInJlZmVycmVyIjoiaHR0cHM6Ly9kaXNjb3JkLmNvbS8iLCJyZWZlcnJpbmdfZG9tYWluIjoiZGlzY29yZC5jb20iLCJyZWZlcnJlcl9jdXJyZW50IjoiaHR0cHM6Ly9kaXNjb3JkLmNvbS8iLCJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiJkaXNjb3JkLmNvbSIsInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsImNsaWVudF9idWlsZF9udW1iZXIiOjYwODY2MCwiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbCwiY2xpZW50X2xhdW5jaF9pZCI6ImViYjkzMmQ4LWNlZTItNGMzNy1iMzJiLWUwODY2MzBkNjQxNiIsImxhdW5jaF9zaWduYXR1cmUiOiJhZDBjYmEwMy1lMDZiLTQ5OGUtOTNjOC0xNzQzZWY3M2U5MWUiLCJjbGllbnRfaGVhcnRiZWF0X3Nlc3Npb25faWQiOiIzOGM1MDgzMS04NThmLTRkMTQtOGJlYy04NTk0NGFlZGZmMjAiLCJjbGllbnRfYXBwX3N0YXRlIjoiZm9jdXNlZCJ9",
+      "super_properties_raw": {
+        "os": "Linux",
+        "browser": "Chrome",
+        "device": "",
+        "system_locale": "en-US",
+        "has_client_mods": false,
+        "browser_user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+        "browser_version": "154.0.0.0",
+        "os_version": "",
+        "referrer": "https://discord.com/",
+        "referring_domain": "discord.com",
+        "referrer_current": "https://discord.com/",
+        "referring_domain_current": "discord.com",
+        "release_channel": "stable",
+        "client_build_number": 608660,
+        "client_event_source": null,
+        "client_launch_id": "ebb932d8-cee2-4c37-b32b-e086630d6416",
+        "launch_signature": "ad0cba03-e06b-498e-93c8-1743ef73e91e",
+        "client_heartbeat_session_id": "38c50831-858f-4d14-8bec-85944aedff20",
+        "client_app_state": "focused"
+      }
+    },
+    "timestamp": 1789021396
+  },
+  "MTM4NzAzMjExNjEyNjE1NDkzMw.GOzaIs.3MNVojCmFk57oYf6U9QPfATwRsXTfoBpzeD6Ds": {
+    "cookies": {
+      "__dcfduid": "65a84210b12811f1a326e35f88b8c7cc",
+      "__sdcfduid": "65a84211b12811f1a326e35f88b8c7cc589bf398390172808c12eabecbcf5e47a00f995ae93d99e697c4666998111e12",
+      "_cfuvid": "SQJ4u7odbweTR2mm2TrVOu5TvXxifDhVq1M5gDBoBOo-1789492248.775604-1.0.1.1-b1yVcVXYRb6PyZQoYGGmUWE6dY_KQHMN9VuFGWeSf3g"
+    },
+    "fingerprint": "1549467538470076550.kb2fnZtnRrpIXXjynf-dozU4_J8",
+    "profile": {
+      "os": "Linux",
+      "browser": "Chrome",
+      "os_version": "",
+      "os_arch": "x64",
+      "app_arch": "x64",
+      "browser_version": "154.0.0.0",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "sec_ch_ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+      "sec_ch_ua_platform": "\"Linux\"",
+      "client_launch_id": "8e70c3ff-4e97-4a46-ad09-674b7676e7da",
+      "launch_signature": "c251700d-39d2-4392-8783-027df1f654ce",
+      "client_heartbeat_session_id": "86cf7a3e-fe35-474d-8b21-3a9078d064a9",
+      "installation_id": "1599511532435750903.JWkSKBxEHoel31cL9q7rha3wrlU",
+      "super_properties": "eyJvcyI6IkxpbnV4IiwiYnJvd3NlciI6IkNocm9tZSIsImRldmljZSI6IiIsInN5c3RlbV9sb2NhbGUiOiJlbi1VUyIsImhhc19jbGllbnRfbW9kcyI6ZmFsc2UsImJyb3dzZXJfdXNlcl9hZ2VudCI6Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiYnJvd3Nlcl92ZXJzaW9uIjoiMTU0LjAuMC4wIiwib3NfdmVyc2lvbiI6IiIsInJlZmVycmVyIjoiaHR0cHM6Ly9kaXNjb3JkLmNvbS8iLCJyZWZlcnJpbmdfZG9tYWluIjoiZGlzY29yZC5jb20iLCJyZWZlcnJlcl9jdXJyZW50IjoiaHR0cHM6Ly9kaXNjb3JkLmNvbS8iLCJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiJkaXNjb3JkLmNvbSIsInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsImNsaWVudF9idWlsZF9udW1iZXIiOjYxMzMzNCwiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbCwiY2xpZW50X2xhdW5jaF9pZCI6IjhlNzBjM2ZmLTRlOTctNGE0Ni1hZDA5LTY3NGI3Njc2ZTdkYSIsImxhdW5jaF9zaWduYXR1cmUiOiJjMjUxNzAwZC0zOWQyLTQzOTItODc4My0wMjdkZjFmNjU0Y2UiLCJjbGllbnRfaGVhcnRiZWF0X3Nlc3Npb25faWQiOiI4NmNmN2EzZS1mZTM1LTQ3NGQtOGIyMS0zYTkwNzhkMDY0YTkiLCJjbGllbnRfYXBwX3N0YXRlIjoiZm9jdXNlZCJ9",
+      "super_properties_raw": {
+        "os": "Linux",
+        "browser": "Chrome",
+        "device": "",
+        "system_locale": "en-US",
+        "has_client_mods": false,
+        "browser_user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+        "browser_version": "154.0.0.0",
+        "os_version": "",
+        "referrer": "https://discord.com/",
+        "referring_domain": "discord.com",
+        "referrer_current": "https://discord.com/",
+        "referring_domain_current": "discord.com",
+        "release_channel": "stable",
+        "client_build_number": 613334,
+        "client_event_source": null,
+        "client_launch_id": "8e70c3ff-4e97-4a46-ad09-674b7676e7da",
+        "launch_signature": "c251700d-39d2-4392-8783-027df1f654ce",
+        "client_heartbeat_session_id": "86cf7a3e-fe35-474d-8b21-3a9078d064a9",
+        "client_app_state": "focused"
+      }
+    },
+    "timestamp": 1789492308
+  }
+}

@@ -10536,6 +10536,13 @@
       "steam_share_weight": 2
     },
     {
+      "brand": "NVIDIA GeForce RTX 5070",
+      "vendor_id": 4318,
+      "device_id": 11273,
+      "vram_mb": 8192,
+      "steam_share_weight": 2
+    },
+    {
       "brand": "NVIDIA GeForce RTX 5090 Max-Q / Mobile",
       "vendor_id": 4318,
       "device_id": 11288,
@@ -12480,5 +12487,5 @@
     12288,
     4096
   ],
-  "last_updated": 1788984322
+  "last_updated": 1789476338
 }

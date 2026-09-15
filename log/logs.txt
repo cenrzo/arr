@@ -9,3 +9,172 @@
 2026-09-10 00:15:43 │ INFO  │ Dashboard Web › Listening on http://0.0.0.0:5065
 2026-09-10 00:15:53 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5065
 2026-09-10 00:16:03 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5065
+2026-09-10 10:12:36 │ INFO  │ Dashboard Web › Listening on http://127.0.0.1:5050
+ort 5050
+2026-09-10 10:12:46 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:12:56 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:13:06 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:13:16 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:13:26 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:13:36 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:13:46 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:13:57 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:14:07 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:14:17 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:14:27 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:14:37 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:14:47 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:14:57 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:15:07 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:15:17 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:15:27 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:15:37 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:15:47 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:15:57 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:16:08 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:16:18 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:16:28 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:16:38 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:16:48 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:16:58 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:17:08 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:17:18 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:17:28 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:17:38 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:17:48 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:17:58 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:18:09 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:18:19 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:18:29 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:18:39 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:18:49 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:18:59 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:19:09 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:19:19 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:19:29 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:19:39 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:19:49 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:19:59 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:20:09 │ INFO  │ Waiting for tokens and invites from the dashboard on port 5050
+2026-09-10 10:20:12 │ INFO  │ Engine Ready › Threads: 2 │ Tokens: 1 │ Invites: 60 │ Challenge handling: disabled
+2026-09-10 10:20:12 │ INFO  │ Engine Dispatcher › Operating in Fleet Mode
+2026-09-10 10:20:12 │ INFO  │ Fleet Dispatcher Ready › 1 thread(s) x 10 workers = 1 active │ Limit/Token: 33 │ Standby Tokens: 0 │ Pacing: 39-55s (~0.7m/token)
+2026-09-10 10:20:12 │ INFO  │ Fleet Threads › running 1 independent dispatcher(s), one per exit IP
+2026-09-10 10:20:12 │ INFO  │ T1 Dispatching › token=MjU1...zm1o │ target=discord.gg/S6YgWXrCxf │ joins=0/33
+2026-09-10 10:20:12 │ INFO  │ [Thread 1] Session active › proxy=direct │ token=MjU1...zm1o │ target=S6YgWXrCxf
+2026-09-10 10:20:13 │ INFO  │ [Thread 1] Detected connection timezone: Asia/Tbilisi
+2026-09-10 10:20:13 │ INFO  │ [Thread 1] Fingerprint acquired → 1547491645182836757.xLDZzqJ1Sj-eou9BOq3B5T_-wmI
+2026-09-10 10:20:14 │ ERROR │ [Thread 1] MjU1...zm1o → Invalid Token (HTTP 401)
+2026-09-10 10:20:14 │ INFO  │ Removed token MjU1...zm1o from input/tokens.txt
+2026-09-10 10:20:14 │ INFO  │ Queue Pacing › Next worker in 39.1s (individual token rest cooldown ~7.8m)
+2026-09-10 10:20:53 │ WARNING │ All Fleet workers have retired and standby token pool is exhausted.
+2026-09-10 10:20:53 │ INFO  │ Gateway cleanup › Closing all active WebSocket connections...
+2026-09-10 10:20:53 │ INFO  │ Session finished › All server join tasks completed or tokens exhausted!
+2026-09-10 10:20:53 │ INFO  │ Discord Bot & Dashboard › 24/7 online. Use /addtokens or /addinvites, then /restart to resume.
+2026-09-10 10:23:12 │ INFO  │ New dashboard queues detected; restarting the engine.
+2026-09-10 10:23:15 │ INFO  │ Dashboard Web › Listening on http://127.0.0.1:5050
+2026-09-10 10:23:15 │ INFO  │ Engine Ready › Threads: 2 │ Tokens: 1 │ Invites: 60 │ Challenge handling: disabled
+2026-09-10 10:23:15 │ INFO  │ Engine Dispatcher › Operating in Fleet Mode
+2026-09-10 10:23:15 │ INFO  │ Fleet Dispatcher Ready › 1 thread(s) x 10 workers = 1 active │ Limit/Token: 33 │ Standby Tokens: 0 │ Pacing: 39-55s (~0.7m/token)
+2026-09-10 10:23:15 │ INFO  │ Fleet Threads › running 1 independent dispatcher(s), one per exit IP
+2026-09-10 10:23:15 │ INFO  │ T1 Dispatching › token=MTM4...9SH4 │ target=discord.gg/S6YgWXrCxf │ joins=0/33
+2026-09-10 10:23:15 │ INFO  │ [Thread 1] Session active › proxy=direct │ token=MTM4...9SH4 │ target=S6YgWXrCxf
+2026-09-10 10:23:16 │ INFO  │ [Thread 1] Detected connection timezone: Asia/Tbilisi
+2026-09-10 10:23:16 │ INFO  │ [Thread 1] Fingerprint acquired → 1547492414330245152.yA0w4wOz26fJ2At8xANRt47Fjb0
+2026-09-10 10:23:19 │ INFO  │ [Thread 1] Initial presence warmup › warming presence for 87.9s (first time startup only)...
+2026-09-10 10:25:25 │ INFO  │ [Thread 1] MTM4...9SH4 → Joined (S6YgWXrCxf)
+2026-09-10 10:25:53 │ INFO  │ T1 Join Success › joins=1/33
+2026-09-10 10:25:53 │ INFO  │ Queue Pacing › Next worker in 51.9s (individual token rest cooldown ~7.8m)
+2026-09-10 10:26:35 │ WARNING │ Ctrl+C / termination signal received! Initiating graceful shutdown...
+2026-09-10 10:26:35 │ INFO  │ Finishing active tasks, no new tasks will be scheduled. Press Ctrl+C again to force exit.
+2026-09-10 10:26:35 │ INFO  │ Fleet dispatcher stopped by shutdown request.
+2026-09-10 10:26:35 │ INFO  │ Gateway cleanup › Closing all active WebSocket connections...
+2026-09-10 10:26:35 │ INFO  │ Session finished › All server join tasks completed or tokens exhausted!
+2026-09-10 10:26:35 │ INFO  │ Discord Bot & Dashboard › 24/7 online. Use /addtokens or /addinvites, then /restart to resume.
+2026-09-10 10:26:35 │ WARNING │ Force exiting immediately...
+2026-09-15 16:45:38 │ INFO  │ Downloading & dynamically compiling 24-hour hardware database input/hardware_database.json...
+2026-09-15 16:45:40 │ INFO  │ Dynamically parsed 1738 live GPUs from Official Main Registry.
+2026-09-15 16:45:40 │ INFO  │ Hardware database successfully saved to input/hardware_database.json (Valid for 24h).
+2026-09-15 21:05:44 │ INFO  │ Solver Engine › NopeCHA enabled
+://127.0.0.1:5050
+2026-09-15 21:05:44 │ INFO  │ Engine Ready › Threads: 4 │ Tokens: 1 │ Invites: 59 │ Solver: nopecha
+2026-09-15 21:05:44 │ INFO  │ Engine Dispatcher › Operating in Fleet Mode
+2026-09-15 21:05:44 │ INFO  │ Fleet Dispatcher Ready › 1 thread(s) x 12 workers = 1 active │ Limit/Token: 50 │ Standby: 0 │ Pacing: 20-32s
+2026-09-15 21:05:44 │ INFO  │ Fleet Threads › running 1 independent dispatcher(s)
+2026-09-15 21:05:44 │ INFO  │ T1 Dispatching › token=MTM4...9SH4 │ target=discord.gg/SSJvp4z4aY │ joins=0/50
+2026-09-15 21:05:44 │ INFO  │ [Thread 1] Session active › proxy=direct │ token=MTM4...9SH4 │ target=SSJvp4z4aY
+2026-09-15 21:05:46 │ INFO  │ [Thread 1] Detected connection timezone: Asia/Tbilisi
+2026-09-15 21:05:46 │ INFO  │ [Thread 1] Edge cache active › Reusing persistent installation & edge cookies for MTM4...9SH4
+2026-09-15 21:05:47 │ ERROR │ [Thread 1] MTM4...9SH4 → Invalid Token (HTTP 401)
+2026-09-15 21:05:47 │ INFO  │ Queue Pacing › Next worker in 23.8s (per-token cooldown ~1.4m)
+2026-09-15 21:06:11 │ INFO  │ T1 Dispatching › token=MTM4...9SH4 │ target=discord.gg/HpdtMNYZJj │ joins=0/50
+2026-09-15 21:06:11 │ INFO  │ [Thread 1] Session active › proxy=direct │ token=MTM4...9SH4 │ target=HpdtMNYZJj
+2026-09-15 21:06:11 │ INFO  │ [Thread 1] Detected connection timezone: Asia/Tbilisi
+2026-09-15 21:06:11 │ INFO  │ [Thread 1] Edge cache active › Reusing persistent installation & edge cookies for MTM4...9SH4
+2026-09-15 21:06:12 │ ERROR │ [Thread 1] MTM4...9SH4 → Invalid Token (HTTP 401)
+2026-09-15 21:06:12 │ INFO  │ Queue Pacing › Next worker in 20.9s (per-token cooldown ~1.4m)
+2026-09-15 21:06:33 │ INFO  │ T1 Dispatching › token=MTM4...9SH4 │ target=discord.gg/SbB3eMEgXY │ joins=0/50
+2026-09-15 21:06:33 │ INFO  │ [Thread 1] Session active › proxy=direct │ token=MTM4...9SH4 │ target=SbB3eMEgXY
+2026-09-15 21:06:33 │ INFO  │ [Thread 1] Detected connection timezone: Asia/Tbilisi
+2026-09-15 21:06:33 │ INFO  │ [Thread 1] Edge cache active › Reusing persistent installation & edge cookies for MTM4...9SH4
+2026-09-15 21:06:34 │ ERROR │ [Thread 1] MTM4...9SH4 → Invalid Token (HTTP 401)
+2026-09-15 21:06:34 │ INFO  │ Removed token MTM4...9SH4 from input/tokens.txt
+2026-09-15 21:06:34 │ INFO  │ Queue Pacing › Next worker in 23.6s (per-token cooldown ~1.4m)
+2026-09-15 21:06:58 │ WARNING │ All Fleet workers have retired and standby token pool is exhausted.
+2026-09-15 21:06:58 │ INFO  │ Gateway cleanup › Closing all WebSocket connections...
+2026-09-15 21:06:58 │ INFO  │ Session finished › All server join tasks completed or tokens exhausted!
+2026-09-15 21:06:58 │ INFO  │ Discord Bot & Dashboard › 24/7 online.
+2026-09-15 21:11:43 │ INFO  │ New dashboard queues detected; restarting the engine.
+2026-09-15 21:11:46 │ INFO  │ Solver Engine › NopeCHA enabled
+2026-09-15 21:11:46 │ INFO  │ Dashboard Web › Listening on http://127.0.0.1:5050
+2026-09-15 21:11:46 │ INFO  │ Engine Ready › Threads: 4 │ Tokens: 1 │ Invites: 589 │ Solver: nopecha
+2026-09-15 21:11:46 │ INFO  │ Engine Dispatcher › Operating in Fleet Mode
+2026-09-15 21:11:46 │ INFO  │ Fleet Dispatcher Ready › 1 thread(s) x 12 workers = 1 active │ Limit/Token: 50 │ Standby: 0 │ Pacing: 20-32s
+2026-09-15 21:11:46 │ INFO  │ Fleet Threads › running 1 independent dispatcher(s)
+2026-09-15 21:11:46 │ INFO  │ T1 Dispatching › token=MTM4...D6Ds │ target=discord.gg/M58ZYeWQku │ joins=0/50
+2026-09-15 21:11:46 │ INFO  │ [Thread 1] Session active › proxy=direct │ token=MTM4...D6Ds │ target=M58ZYeWQku
+2026-09-15 21:11:48 │ INFO  │ [Thread 1] Detected connection timezone: Asia/Tbilisi
+2026-09-15 21:11:48 │ INFO  │ [Thread 1] Fingerprint acquired → 1549467538470076550.kb2fnZtnRrpIXXjynf-dozU4_J8
+2026-09-15 21:11:51 │ INFO  │ [Thread 1] Initial presence warmup › warming presence for 23.9s (first time startup only)...
+2026-09-15 21:13:01 │ INFO  │ [Thread 1] MTM4...D6Ds → Joined (M58ZYeWQku)
+2026-09-15 21:13:37 │ INFO  │ T1 Join Success › joins=1/50
+2026-09-15 21:13:37 │ INFO  │ Queue Pacing › Next worker in 26.7s (per-token cooldown ~1.4m)
+2026-09-15 21:14:51 │ INFO  │ T1 Dispatching › token=MTM4...D6Ds │ target=discord.gg/turtle │ joins=1/50
+2026-09-15 21:14:51 │ INFO  │ [Thread 1] Session active › proxy=direct │ token=MTM4...D6Ds │ target=turtle
+2026-09-15 21:15:32 │ INFO  │ [Thread 1] MTM4...D6Ds → Joined (turtle)
+2026-09-15 21:15:52 │ INFO  │ [Thread 1] Interaction button verification detected. Clicking button label='Start'...
+2026-09-15 21:15:52 │ INFO  │ [Thread 1] Successfully clicked button verification.
+2026-09-15 21:16:08 │ INFO  │ T1 Join Success › joins=2/50
+2026-09-15 21:16:08 │ INFO  │ Queue Pacing › Next worker in 26.5s (per-token cooldown ~1.4m)
+2026-09-15 21:17:21 │ INFO  │ T1 Dispatching › token=MTM4...D6Ds │ target=discord.gg/m3v9KN6Cvr │ joins=2/50
+2026-09-15 21:17:21 │ INFO  │ [Thread 1] Session active › proxy=direct │ token=MTM4...D6Ds │ target=m3v9KN6Cvr
+2026-09-15 21:18:07 │ INFO  │ [Thread 1] MTM4...D6Ds → Joined (m3v9KN6Cvr)
+2026-09-15 21:18:23 │ INFO  │ [Thread 1] Submitting Rules Screening verification for guild 1202188932016783360...
+2026-09-15 21:18:35 │ INFO  │ [Thread 1] Rules Screening successfully bypassed.
+2026-09-15 21:18:36 │ INFO  │ [Thread 1] Submitting onboarding choices for guild 1202188932016783360...
+2026-09-15 21:18:45 │ INFO  │ [Thread 1] Onboarding flow successfully bypassed.
+2026-09-15 21:18:53 │ INFO  │ [Thread 1] Interaction button verification detected. Clicking button label='Verify'...
+2026-09-15 21:18:53 │ INFO  │ [Thread 1] Successfully clicked button verification.
+2026-09-15 21:19:14 │ INFO  │ T1 Join Success › joins=3/50
+2026-09-15 21:19:14 │ INFO  │ Queue Pacing › Next worker in 30.1s (per-token cooldown ~1.4m)
+2026-09-15 21:20:37 │ INFO  │ T1 Dispatching › token=MTM4...D6Ds │ target=discord.gg/azorewrath │ joins=3/50
+2026-09-15 21:20:37 │ INFO  │ [Thread 1] Session active › proxy=direct │ token=MTM4...D6Ds │ target=azorewrath
+2026-09-15 21:21:23 │ INFO  │ [Thread 1] MTM4...D6Ds → Joined (azorewrath)
+2026-09-15 21:21:38 │ INFO  │ [Thread 1] Submitting onboarding choices for guild 945386790402023554...
+2026-09-15 21:21:44 │ INFO  │ [Thread 1] Onboarding flow successfully bypassed.
+2026-09-15 21:21:52 │ INFO  │ [Thread 1] Intelligent reaction verification detected. Reacting with ✅...
+2026-09-15 21:21:52 │ INFO  │ [Thread 1] Successfully reacted to emoji verification.
+2026-09-15 21:21:57 │ INFO  │ [Thread 1] Intelligent reaction verification detected. Reacting with ✅...
+2026-09-15 21:21:58 │ INFO  │ [Thread 1] Successfully reacted to emoji verification.
+2026-09-15 21:22:15 │ INFO  │ T1 Join Success › joins=4/50
+2026-09-15 21:22:15 │ INFO  │ Queue Pacing › Next worker in 28.0s (per-token cooldown ~1.4m)
+2026-09-15 21:23:16 │ INFO  │ T1 Dispatching › token=MTM4...D6Ds │ target=discord.gg/3EnhMSW7cf │ joins=4/50
+2026-09-15 21:23:16 │ INFO  │ [Thread 1] Session active › proxy=direct │ token=MTM4...D6Ds │ target=3EnhMSW7cf
+2026-09-15 21:23:59 │ INFO  │ [Thread 1] MTM4...D6Ds → Joined (3EnhMSW7cf)
+2026-09-15 21:24:39 │ INFO  │ T1 Join Success › joins=5/50
+2026-09-15 21:24:39 │ INFO  │ Queue Pacing › Next worker in 30.0s (per-token cooldown ~1.4m)
+2026-09-15 21:26:26 │ INFO  │ T1 Dispatching › token=MTM4...D6Ds │ target=discord.gg/eosontop │ joins=5/50
+2026-09-15 21:26:26 │ INFO  │ [Thread 1] Session active › proxy=direct │ token=MTM4...D6Ds │ target=eosontop
+2026-09-15 21:26:29 │ INFO  │ T1 Invite min_members_limit › Removing discord.gg/eosontop and trying next...
+2026-09-15 21:26:29 │ INFO  │ T1 Dispatching › token=MTM4...D6Ds │ target=discord.gg/droam │ joins=5/50
+2026-09-15 21:26:29 │ INFO  │ [Thread 1] Session active › proxy=direct │ token=MTM4...D6Ds │ target=droam
